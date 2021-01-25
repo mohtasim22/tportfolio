@@ -1,0 +1,53 @@
+
+
+@media (min-width: 320px) and (max-width: 575px) {
+    .navbar-brand img{
+        width: 100%;
+    }
+    .navbar-brand {
+        width: 220px;
+    } 
+    .social li{
+        margin-left: -15px;
+        margin-bottom: 20px !important;
+    }
+    .social .fab{
+        font-size: 30px;
+    }
+    .hero-area h1 {
+        font-size: 55px;
+    }
+    .heading{
+        padding-left: 28px;
+    }
+    .navbar {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+    .carousel-caption {
+        margin-top: 30px;
+    }
+    .carousel-caption a {
+        margin-top: 12px;
+    }
+    .carousel-caption h5 {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 769px) {
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    
+}
+
+
+@media (min-width: 1400px) {}
